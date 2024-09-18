@@ -280,6 +280,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   background-size: cover;
   background-repeat:inherit;
   z-index: 1;
+  min-height: 100vh; 
 }
 .banner .tagline {
   font-weight: 700;
@@ -372,7 +373,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 0 0 50px 0;
   position: relative;
   display: flex;
-  min-height: 94vh; 
+  min-height: 100vh; 
   
 }
 .skill-bx {
@@ -422,7 +423,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding: 80px 0;
   position: relative;
   display: flex;
-    min-height: 94vh; 
+  min-height: 100vh; 
 }
 .project h2 {
 	font-size: 45px;
