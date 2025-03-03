@@ -46,7 +46,7 @@ export const Banner = () => {
                         <h1>{`Hi there`} <span class="wave">👋🏻</span> </h1>
                         <h1>{`I'm`} <span className="wrap"> {`Sanyam`} </span></h1>
                         <h1 className="wrap">!{text}</h1>
-                        <p>Software Developer with 3 years of experience, specializing in full-stack development and problem-solving with expertise in MERN stack technologies, including MongoDB, Express.js, React.js, and Node.js. Actively looking for opportunities in software development role and in fintech to use my ability to develop efficient solutions.</p>
+                        <p>Data Scientist with 4+ years of experience in developing, optimizing, and deploying advanced machine learning models that drive impactful business solutions. Adept at leveraging a wide array of technologies, including Python, R, SQL, and leading ML frameworks such as TensorFlow, Keras, and Scikit-Learn, to extract actionable insights from complex datasets. Expertise in data visualization using Tableau, Power BI, and Matplotlib to communicate results effectively to stakeholders. Skilled in large-scale data processing and building robust ETL pipelines using Apache Spark, Hadoop, and cloud technologies (AWS, Azure, GCP). Proficient in implementing CI/CD pipelines with Docker, Kubernetes, and Jenkins for scalable model deployment and automation.</p>
                         <HashLink to="/contact">
                             <button >Let's Connect <ArrowRightCircle size={25} /> </button>
                         </HashLink>
